@@ -3,5 +3,5 @@ var mit = {
     colors: ['black', 'white'],
     mascot: "robot",
     founded: 2003,
-    motto: 'yamaha',
+    motto: 'bajaj',
 };
